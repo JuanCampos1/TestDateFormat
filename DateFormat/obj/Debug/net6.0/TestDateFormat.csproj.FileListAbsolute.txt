@@ -1,0 +1,15 @@
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\bin\Debug\net6.0\TestDateFormat.deps.json
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\bin\Debug\net6.0\TestDateFormat.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\bin\Debug\net6.0\TestDateFormat.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.csproj.AssemblyReference.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.AssemblyInfoInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.AssemblyInfo.cs
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.csproj.CoreCompileInputs.cache
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\refint\TestDateFormat.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.pdb
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\ref\TestDateFormat.dll
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\bin\Debug\net6.0\TestDateFormat.exe
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\bin\Debug\net6.0\TestDateFormat.runtimeconfig.json
+C:\Users\juani\OneDrive\Documentos\GitHub\TestDateFormat\DateFormat\obj\Debug\net6.0\TestDateFormat.genruntimeconfig.cache
